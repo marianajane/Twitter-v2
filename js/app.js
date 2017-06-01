@@ -19,3 +19,9 @@ window.addEventListener("load", function() {
 	});
 	
 });
+
+/* una función que usaba addEevent listener convertida a jQuery
+$postecheck.click(eliminarTodo);
+
+trim quita los espacios a loas laddos de los textos
+*/
